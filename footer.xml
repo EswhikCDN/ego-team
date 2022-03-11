@@ -1,0 +1,24 @@
+document.write(`
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script>window.jQuery || document.write('<script src="src/js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
+        <script src="https://eswhik.github.io/ego-team/plugins/popper.js/dist/umd/popper.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/perfect-scrollbar/dist/perfect-scrollbar.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/screenfull/dist/screenfull.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/datatables.net/js/jquery.dataTables.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/jvectormap/jquery-jvectormap.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/jvectormap/tests/assets/jquery-jvectormap-world-mill-en.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/moment/moment.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/tempusdominus-bootstrap-4/build/js/tempusdominus-bootstrap-4.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/d3/dist/d3.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/plugins/c3/c3.min.js"></script>
+        <script src="https://eswhik.github.io/ego-team/js/tables.js"></script>
+        <script src="https://eswhik.github.io/ego-team/js/widgets.js"></script>
+        <script src="https://eswhik.github.io/ego-team/js/charts.js"></script>
+        <script src="https://eswhik.github.io/ego-team/dist/js/theme.min.js"></script>
+        
+`)
