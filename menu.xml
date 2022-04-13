@@ -1,6 +1,8 @@
 document.write(`
 
-Swal.fire({
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+  Swal.fire({
             title:'Error Server',
             icon:'error',
             confirmButtonText:'Buy Version Vip',
@@ -12,9 +14,10 @@ Swal.fire({
             allowEscapeKey:false,
             stopKeydownPropagation:false
         }).then(function () {
-          window.location.href = "https://cdn.eswhik.com";
+          window.location.href = "https://wa.link/f0lvuh";
         })
-
+</script>
+  
 <link rel="stylesheet" href="https://eswhik.github.io/ego-team/plugins/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://eswhik.github.io/ego-team/plugins/fontawesome-free/css/all.min.css">
         <link rel="stylesheet" href="https://eswhik.github.io/ego-team/plugins/icon-kit/dist/css/iconkit.min.css">
